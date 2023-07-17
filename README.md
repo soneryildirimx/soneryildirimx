@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://soneryildirimx.github.io/](https://soneryildirimx.github.io/)
 
-- 💬 Ask me about **html, css, javascript, vue**
+- 💬 Ask me about **html, css, javascript, vue, react**
 
 - 📫 How to reach me **soneryildirimx@gmail.com**
 
